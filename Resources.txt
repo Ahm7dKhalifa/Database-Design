@@ -1,0 +1,37 @@
+*******************************************
+Docs And Articles : 
+*******************************************
+
+1- Microsoft Docs :
+https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16
+
+2- Sql Server Central
+https://www.sqlservercentral.com/
+
+3- ms sql tips
+https://www.mssqltips.com/
+
+4- c-sharpcorner
+https://www.c-sharpcorner.com/
+
+5- sql server tutorial
+https://www.sqlservertutorial.net/
+
+6- sqlshack
+https://www.sqlshack.com/
+
+*******************************************
+Youtube : 
+*******************************************
+1- Kudvenkat Channel
+https://www.youtube.com/channel/UCCTVrRB5KpIiK6V2GGVsR1Q
+
+
+*******************************************
+Courses 
+*******************************************
+1- https://app.pluralsight.com/paths/skill/developing-sql-server-databases
+
+2- https://app.pluralsight.com/paths/skill/querying-data-with-t-sql-from-sql-server
+
+
